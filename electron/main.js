@@ -1,4 +1,4 @@
-// DEOBFUSCATED main.js - MovieForParty / Supreme RAT
+// DEOBFUSCATED main.js -  / Supreme RAT
 // C2: http://veled.com.tr
 // License: H95S2-MJ56T-LJPQ2-ATZ6Z
 // XOR Key: 0xA7 (runtime.dat -> runtime.jar)
